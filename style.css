@@ -1,0 +1,77 @@
+.Top{
+    width: 100%;
+   
+    color: rgb(10, 10, 0);
+    font-size: 150%;
+    text-align: center;
+
+}
+.container{
+    margin-top: 20px;
+    margin-bottom:20px;
+    text-align: center;
+   
+    width: 100%;
+  
+}
+.body
+    {
+        top: 50%;
+        left: 50%;
+        position: absolute;
+     background-color: rgba(0, 0, 0, 0.6);
+     transform:translate(-50%,-50%);
+    
+    }
+
+
+#time{
+    color: aliceblue;
+    width: 100%;
+    white-space: normal;
+    font-size: 58px;
+    text-align: center;
+    padding: 20px;
+  
+}
+
+
+
+
+
+    
+.button
+{
+    
+    text-align: center;
+    margin-top: 20px;
+    background-image: radial-gradient( rgb(212, 181, 216), rgb(26, 25, 92));
+    border: 3px solid rgb(128, 0, 17);
+    font-size: 18px;
+    padding: 15px 32px;
+    margin-left: 10px;
+    font-family: 'Bangers', cursive;
+    border-radius: 15%;
+
+
+}
+
+.button:hover
+{
+    
+    text-align: center;
+    margin-top: 20px;
+    background-image: radial-gradient( rgb(167, 118, 173), rgb(12, 11, 65));
+    border: 3px solid rgb(128, 0, 17);
+    font-size: 18px;
+    padding: 15px 32px;
+    margin-left: 10px;
+    font-family: 'Bangers', cursive;
+    border-radius: 15%;
+
+
+}
+
+#Clock{
+    text-align: center;
+}
